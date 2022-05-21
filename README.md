@@ -6,3 +6,6 @@ This repository contains the solutions coded by the _user_ everyday to the probl
 - Please post the link to the problem and it's solution as a separate github folder
 - Be consistent
 - DO NOT QUIT, you can do it!!!
+ 
+ # Solution Links
+ 1. put your solution's problem and the link here.
