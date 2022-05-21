@@ -8,4 +8,5 @@ This repository contains the solutions coded by the _user_ everyday to the probl
 - DO NOT QUIT, you can do it!!!
  
  # Solutions
- 1. Put your solution's problem and the link here.
+ 1. https://github.com/Shivam-Bhardwaj/codes_everyday/blob/main/solutions/problem_1/solution.cpp
+ 2. https://github.com/Shivam-Bhardwaj/codes_everyday/blob/main/solutions/problem_2/solution
