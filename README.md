@@ -3,9 +3,9 @@ This repository contains the solutions coded by the _user_ everyday to the probl
 
 # HOW TO
 - Fork the repo so that the repo's name becomes _user_ codes_everyday (Get it?)
-- Please post the link to the problem and it's solution as a separate github folder
+- Please add the link to the problem and it's solution in a separate github folder
 - Be consistent
 - DO NOT QUIT, you can do it!!!
  
- # Solution Links
- 1. put your solution's problem and the link here.
+ # Solutions
+ 1. Put your solution's problem and the link here.
