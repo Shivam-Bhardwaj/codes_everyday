@@ -9,4 +9,4 @@ This repository contains the solutions coded by the _user_ everyday to the probl
  
  # Solutions
  1. https://github.com/Shivam-Bhardwaj/codes_everyday/tree/main/solutions/problem_1
- 2. TODO
+ 2. https://github.com/Shivam-Bhardwaj/codes_everyday/blob/main/solutions/problem_2/977.%20Squares%20of%20a%20Sorted%20Array
