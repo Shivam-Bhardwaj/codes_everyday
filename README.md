@@ -8,5 +8,5 @@ This repository contains the solutions coded by the _user_ everyday to the probl
 - DO NOT QUIT, you can do it!!!
  
  # Solutions
- 1. https://github.com/Shivam-Bhardwaj/codes_everyday/tree/main/solutions/problem_1
- 2. [977. Squares of a Sorted Array](https://github.com/Shivam-Bhardwaj/codes_everyday/blob/main/solutions/problem_2/977.%20Squares%20of%20a%20Sorted%20Array)
+ 1. [Find Numbers with Even Number of Digits](https://github.com/Shivam-Bhardwaj/codes_everyday/tree/main/solutions/problem_1)
+ 2. [Squares of a Sorted Array](https://github.com/Shivam-Bhardwaj/codes_everyday/blob/main/solutions/problem_2/977.%20Squares%20of%20a%20Sorted%20Array)
