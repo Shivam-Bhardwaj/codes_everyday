@@ -12,3 +12,4 @@ This repository contains the solutions coded by the _user_ everyday to the probl
  2. [Squares of a Sorted Array](https://github.com/Shivam-Bhardwaj/codes_everyday/blob/main/solutions/problem_2/977.%20Squares%20of%20a%20Sorted%20Array)
  3. [Duplicate Zeros](https://github.com/Shivam-Bhardwaj/codes_everyday/blob/main/solutions/problem_3/solution.cpp)
  4. [Two number sum](https://github.com/Shivam-Bhardwaj/codes_everyday/blob/main/solutions/problem_4/Screenshot%20from%202022-05-24%2022-00-32.png)
+ 5. 
