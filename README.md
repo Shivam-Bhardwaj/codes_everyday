@@ -14,3 +14,4 @@ This repository contains the solutions coded by the _user_ everyday to the probl
  4. [Two number sum](https://github.com/Shivam-Bhardwaj/codes_everyday/blob/main/solutions/problem_4/Screenshot%20from%202022-05-24%2022-00-32.png)
  5. [Valid Subsequence](https://www.algoexpert.io/questions/validate-subsequence)
  6. [sorted square](https://www.algoexpert.io/questions/sorted-squared-array)
+7. [1768. Merge Strings Alternately.py](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)
